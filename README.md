@@ -63,7 +63,7 @@ Sistem, kliniğin hiyerarşik yapısını yansıtan dört farklı kullanıcı ro
     * Tarayıcınızda `http://localhost/phpmyadmin` adresine gidin ve yeni bir veritabanı oluşturun (Örn: `dishane_db`).
     * **"İçe Aktar (Import)"** sekmesine gidin ve deponun ana dizininde bulunan **`dishane_db.sql`** dosyasını bu yeni veritabanına yükleyin.
 4.  **Veritabanı Bağlantısını Yapılandırın:**
-    * **`config/config.php`** dosyasını açın.
+    * **`config/Database.php`** dosyasını açın.
     * İçindeki veritabanı bağlantı bilgilerini (DB adı, kullanıcı adı, şifre) yerel XAMPP ayarlarınıza göre güncelleyin.
 5.  **Uygulamayı Başlatın:** Tarayıcınızda şu adrese gidin:
     ```
