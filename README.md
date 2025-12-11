@@ -5,11 +5,11 @@ Bu proje, **Yazılım Mühendisliği Lisans Eğitimimin Bitirme Projesi** olarak
 Sistem; **çoklu kullanıcı yetkilendirmesi, karmaşık veri modelleme** ve **sunucu tarafı iş mantığı** konularındaki mühendislik yetkinliğimi göstermektedir.
 
 ## 🔗 Proje Bilgileri
-> **Proje Tipi:** Full-Stack Web Uygulaması
-> **Mimari Desen:** Özelleştirilmiş PHP MVC
-> **Backend Dili:** PHP 
-> **Veritabanı:** MySQL
-> **Canlı Demo:** Bu proje sunucu tarafı (PHP/MySQL) gerektirdiği için genel kullanıma açık canlı demosu bulunmamaktadır. Yerel kurulum adımları aşağıdadır.
+- **Proje Tipi:** Full-Stack Web Uygulaması
+- **Mimari Desen:** Özelleştirilmiş PHP MVC
+- **Backend Dili:** PHP 
+- **Veritabanı:** MySQL
+- **Canlı Demo:** Bu proje sunucu tarafı (PHP/MySQL) gerektirdiği için genel kullanıma açık canlı demosu bulunmamaktadır. Yerel kurulum adımları aşağıdadır.
 
 ---
 
