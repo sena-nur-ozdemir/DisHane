@@ -2,7 +2,7 @@
 
 Bu proje, **Yazılım Mühendisliği Lisans Eğitimimin Bitirme Projesi** olarak sıfırdan geliştirilmiştir. Bir Diş Kliniği veya Polikliniğin tüm idari ve tıbbi iş akışlarını dijitalleştirmek amacıyla tasarlanmış, **MVC (Model-View-Controller) mimarisi** üzerine kurulu, özelleştirilmiş bir **Klinik Yönetim Sistemi** yazılımıdır.
 
-**çoklu kullanıcı yetkilendirmesi, karmaşık veri modelleme** ve **sunucu tarafı iş mantığı** konusundaki yetkinliğimi kanıtlamaktadır.
+Sistem; **çoklu kullanıcı yetkilendirmesi, karmaşık veri modelleme** ve **sunucu tarafı iş mantığı** konularındaki mühendislik yetkinliğimi göstermektedir.
 
 ## 🔗 Proje Bilgileri
 > **Proje Tipi:** Full-Stack Web Uygulaması
@@ -55,9 +55,9 @@ Sistem, kliniğin hiyerarşik yapısını yansıtan dört farklı kullanıcı ro
 
 1.  **Depoyu Klonlayın:**
     ```bash
-    git clone [https://github.com/senathecoder/DisHane](https://github.com/senathecoder/DisHane)
+    git clone [https://github.com/sena-nur-ozdemir/DisHane)
     ```
-2.  **Dosyaları Taşıyın:** İndirilen `DişHane` klasörünü XAMPP kurulumunuzdaki **`htdocs`** klasörünün içine taşıyın.
+2.  **Dosyaları Taşıyın:** İndirilen `DisHane` klasörünü XAMPP kurulumunuzdaki **`htdocs`** klasörünün içine taşıyın.
 3.  **Veritabanı Kurulumu:**
     * XAMPP Control Panel'i açın ve **Apache** ile **MySQL** servislerini başlatın.
     * Tarayıcınızda `http://localhost/phpmyadmin` adresine gidin ve yeni bir veritabanı oluşturun (Örn: `dishane_db`).
@@ -71,5 +71,69 @@ Sistem, kliniğin hiyerarşik yapısını yansıtan dört farklı kullanıcı ro
     ```
 ---
 
+## 📸 Proje Fotoğrafları 
+
+### 🔐 Giriş Sayfası
+
+<img width="1917" height="970" alt="dishanefoto18" src="https://github.com/user-attachments/assets/21a26256-dd43-4bdc-a375-16bcabc6d4c0" />
+
+### 🔐 Admin Paneli 
+
+<img width="1918" height="966" alt="dishanefoto14" src="https://github.com/user-attachments/assets/ea38298e-4576-48e9-b864-29c9194ecd38" />
+
+### 🔐 Admin Paneli Klinik İstatistikleri
+<img width="1916" height="967" alt="dishanefoto15" src="https://github.com/user-attachments/assets/8ba220c0-b8a3-44ad-92d2-fb6c188a52a8" />
+
+<img width="1918" height="953" alt="dishanefoto16" src="https://github.com/user-attachments/assets/033f0d09-74b5-4a4d-94a3-35f4f643c3fa" />
+
+### 🔐 Admin Paneli Personel İşlemleri
+
+### 👩‍⚕️ Doktor Paneli
+
+<img width="1918" height="967" alt="dishanefoto1" src="https://github.com/user-attachments/assets/24761fd4-e673-4720-9940-68697ada34f6" />
+
+### 📅 Doktor Paneli Randevu Takvimi
+
+<img width="1918" height="970" alt="dishanefoto2" src="https://github.com/user-attachments/assets/563e9f18-0131-4f1b-b216-09494ce6194a" />
+
+### 📦 Doktor Paneli Malzeme Kullanımı
+
+<img width="1918" height="957" alt="dishanefoto3" src="https://github.com/user-attachments/assets/70a566b1-5234-4ec4-8600-4167befa516c" />
+
+### 🧾 Doktor Paneli Tıbbi Kayıtlar
+
+<img width="1917" height="967" alt="dishanefoto4" src="https://github.com/user-attachments/assets/f95ba020-524a-4274-823e-203a2c74f360" />
+
+### 🗂️ Sekreter Paneli
+
+<img width="1918" height="913" alt="dishanefoto5" src="https://github.com/user-attachments/assets/875d451b-b745-4609-bb18-b5abc22f5372" />
+
+### 📅 Sekreter Paneli Doktor Çalışma Saatleri Oluşturma Sayfası
+
+<img width="1918" height="966" alt="dishanefoto7" src="https://github.com/user-attachments/assets/d66fba95-e9e9-4a71-a0e4-5f754241a400" />
+
+### 📦 Sekreter Paneli Stok Yönetimi
+
+<img width="1913" height="968" alt="dishanefoto9" src="https://github.com/user-attachments/assets/1e0861e7-d1dd-43d3-82dc-514e3b0e267f" />
+
+<img width="1918" height="972" alt="dishanefoto10" src="https://github.com/user-attachments/assets/b00497fc-04ae-4a3a-9a28-90978aaa252d" />
+
+### 📅 Sekreter Paneli Randevu Görüntüleme
+
+<img width="1917" height="968" alt="dishanefoto8" src="https://github.com/user-attachments/assets/ae8ecfc0-d801-4971-bc43-d5acb9c29e09" />
+
+### 🧾 Hasta Paneli
+
+<img width="1917" height="967" alt="dishanefoto12" src="https://github.com/user-attachments/assets/70afbbf3-4d95-489f-a6ac-3dfcd862edcb" />
+
+### 📋 Hasta Paneli Randevu Oluşturma
+
+<img width="1918" height="966" alt="dishanefoto13" src="https://github.com/user-attachments/assets/cf84ec60-a3db-4794-af4d-c28034eab66a" />
+
+
+
+
+
+---
 ## Geliştirici
-- **Sena Nur Özdemir** – [GitHub](https://github.com/senathecoder)
+- **Sena Nur Özdemir** – [GitHub](https://github.com/sena-nur-ozdemir)
