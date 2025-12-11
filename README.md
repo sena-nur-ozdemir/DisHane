@@ -88,6 +88,8 @@ Sistem, kliniğin hiyerarşik yapısını yansıtan dört farklı kullanıcı ro
 
 ### 🔐 Admin Paneli Personel İşlemleri
 
+<img width="1918" height="968" alt="dishanefoto17" src="https://github.com/user-attachments/assets/49737674-cc42-4e80-b50e-c580327c469b" />
+
 ### 👩‍⚕️ Doktor Paneli
 
 <img width="1918" height="967" alt="dishanefoto1" src="https://github.com/user-attachments/assets/24761fd4-e673-4720-9940-68697ada34f6" />
@@ -129,10 +131,6 @@ Sistem, kliniğin hiyerarşik yapısını yansıtan dört farklı kullanıcı ro
 ### 📋 Hasta Paneli Randevu Oluşturma
 
 <img width="1918" height="966" alt="dishanefoto13" src="https://github.com/user-attachments/assets/cf84ec60-a3db-4794-af4d-c28034eab66a" />
-
-
-
-
 
 ---
 ## Geliştirici
